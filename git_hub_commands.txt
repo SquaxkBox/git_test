@@ -1,0 +1,14 @@
+-Related to a remote repository
+git clone git@github.com:USER-NAME/REPOSITRY-NAME.git
+git push /  git push origin main
+
+-Related to the workflow
+git add .
+git commit -m "A message describing what you have done to amk this snapshot different"
+
+-Related to checjing status of log history
+git status
+git log
+
+Syntax
+program | action | destination
