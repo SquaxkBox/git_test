@@ -12,3 +12,4 @@ git log
 
 Syntax
 program | action | destination
+ 
